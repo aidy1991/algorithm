@@ -1,5 +1,6 @@
 class Sort
   def sort data
+    data.sort
   end
 
   def test max, num

@@ -22,6 +22,7 @@ class MergeSort < Sort
     mid = (left + right) / 2
     l_data = data[left...mid]
     r_data = data[mid...right]
+
     until l_data.empty? or r_data.empty? do
       if l_data.first < r_data.first
         data[i] = l_data.shift
