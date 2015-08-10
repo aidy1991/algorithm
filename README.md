@@ -1,4 +1,4 @@
-# For Study Algorithm
+# For Studying Algorithm
 ## Sort
 - Bubble sort
 - Insertion sort
