@@ -5,3 +5,8 @@
 - Quick sort
 - Merge sort
 - Heap sort
+
+## Genetic algorithm
+
+## Machine learning
+
