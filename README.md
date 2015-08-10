@@ -6,7 +6,9 @@
 - Merge sort
 - Heap sort
 
-## Genetic algorithm
-
+## Data structure
+## Graph algorithm
+## Metaheuristics
 ## Machine learning
+
 
