@@ -4,3 +4,4 @@
 - Insertion sort
 - Quick sort
 - Merge sort
+- Heap sort
