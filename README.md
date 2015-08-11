@@ -1,10 +1,10 @@
 # For Studying Algorithm
 ## Sort
-- Bubble sort
-- Insertion sort
-- Quick sort
-- Merge sort
-- Heap sort
+- [x] Bubble sort
+- [x] Insertion sort
+- [x] Quick sort
+- [x] Merge sort
+- [x] Heap sort
 
 ## Data structure
 ## Graph algorithm
