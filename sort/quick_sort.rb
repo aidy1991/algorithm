@@ -1,12 +1,9 @@
 require './sort.rb'
 
 class QuickSort < Sort
-  attr_accessor :count
   def sort data
-    @count = 0
     result = data.dup
     quick_sort result, 0, result.length - 1
-    p @count.to_f/(data.length * Math.log(data.length))
   end
 
   def quick_sort data, left, right
@@ -17,7 +14,6 @@ class QuickSort < Sort
         l += 1 while data[l] < p
         r -= 1 while p < data[r]
         break if l >= r
-      	@count += 1
         data[l], data[r] = data[r], data[l]
         l += 1
         r -= 1
