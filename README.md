@@ -7,7 +7,7 @@
 - [x] Heap sort
 - [x] Odd-even sort
 - [x] Comb sort
-- [ ] Gnome sort
+- [x] Gnome sort
 - [ ] Selection sort
 - [ ] Shell sort
 - [ ] Radix sort
