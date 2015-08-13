@@ -6,7 +6,7 @@
 - [x] Merge sort
 - [x] Heap sort
 - [x] Odd-even sort
-- [ ] Comp sort
+- [ ] Comb sort
 - [ ] Gnome sort
 - [ ] Selection sort
 - [ ] Shell sort
