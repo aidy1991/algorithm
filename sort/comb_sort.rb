@@ -4,8 +4,8 @@ class CombSort < Sort
   def sort data
     res = data.dup
     n = data.length
-
     h = n * 10 / 13
+
     loop do
       is_swap = false
       (n-h).times do |i|
@@ -21,6 +21,7 @@ class CombSort < Sort
         h = h  * 10 / 13
       end
     end
+
     res
   end
 end
