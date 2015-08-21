@@ -9,7 +9,7 @@
 - [x] Comb sort
 - [x] Gnome sort
 - [x] Selection sort
-- [ ] Shell sort
+- [x] Shell sort
 - [ ] Radix sort
 - [ ] Bucket sort
 
