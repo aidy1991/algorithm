@@ -8,7 +8,7 @@
 - [x] Odd-even sort
 - [x] Comb sort
 - [x] Gnome sort
-- [ ] Selection sort
+- [x] Selection sort
 - [ ] Shell sort
 - [ ] Radix sort
 - [ ] Bucket sort
