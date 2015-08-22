@@ -14,7 +14,7 @@
 - [ ] Bucket sort
 
 ## Data structure
-- [ ] List
+- [x] List
 - [ ] Array
 - [ ] Stack
 - [ ] Queue
