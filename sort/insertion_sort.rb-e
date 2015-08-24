@@ -1,4 +1,4 @@
-require_relative '/sort.rb'
+require './sort.rb'
 
 class InsertionSort < Sort
   def sort data

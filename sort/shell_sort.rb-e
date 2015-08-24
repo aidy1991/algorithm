@@ -1,4 +1,4 @@
-require_relative '/sort'
+require './sort'
 
 class ShellSort < Sort
   def sort d

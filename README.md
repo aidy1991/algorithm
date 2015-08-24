@@ -16,7 +16,7 @@
 ## Data structure
 - [x] List
 - [x] Array
-- [ ] Stack
+- [x] Stack
 - [ ] Queue
 - [ ] Deque
 - [ ] Heap

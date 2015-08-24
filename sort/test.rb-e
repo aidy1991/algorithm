@@ -1,5 +1,5 @@
-require_relative '/bubble_sort'
-require_relative '/shaker_sort'
+require './bubble_sort'
+require './shaker_sort'
 
 b = BubbleSort.new
 s = ShakerSort.new

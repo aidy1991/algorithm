@@ -1,4 +1,4 @@
-require_relative '/sort.rb'
+require './sort.rb'
 
 class ShakerSort < Sort
   def sort d
